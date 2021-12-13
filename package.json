@@ -1,6 +1,6 @@
 {
   "name": "release-auti2",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "release auti2",
   "keywords": [
     "loopback-application",
@@ -98,7 +98,7 @@
       "@semantic-release/npm",
       ["@semantic-release/git", {
         "assets": ["dist/", "package.json","CHANGELOG.md"],
-        "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
+        "message": "chore(release): ${nextRelease.version} semantic"
       }],
       "@semantic-release/github"
     ],
