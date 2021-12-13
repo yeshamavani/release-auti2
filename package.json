@@ -1,6 +1,6 @@
 {
   "name": "release-auti2",
-  "version": "0.0.1",
+  "version": "1.1.0",
   "description": "release auti2",
   "keywords": [
     "loopback-application",
@@ -90,16 +90,25 @@
     }
   },
   "release": {
-    "branches": ["master"],
+    "branches": [
+      "master"
+    ],
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
       "@semantic-release/changelog",
       "@semantic-release/npm",
-      ["@semantic-release/git", {
-        "assets": ["dist/", "package.json","CHANGELOG.md"],
-        "message": "chore(release): ${nextRelease.version} semantic"
-      }],
+      [
+        "@semantic-release/git",
+        {
+          "assets": [
+            "dist/",
+            "package.json",
+            "CHANGELOG.md"
+          ],
+          "message": "chore(release): ${nextRelease.version} semantic"
+        }
+      ],
       "@semantic-release/github"
     ],
     "repositoryUrl": "git@github.com:yeshamavani/release-auti2.git"
