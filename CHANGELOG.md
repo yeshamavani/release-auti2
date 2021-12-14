@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/yeshamavani/release-auti2/compare/v1.1.0...v1.1.1) (2021-12-14)
+
+
+### Bug Fixes
+
+* **provider:** version check ([3dd2c63](https://github.com/yeshamavani/release-auti2/commit/3dd2c630db4f49adfa0e1780917e7b8ae7fa9792)), closes [#00](https://github.com/yeshamavani/release-auti2/issues/00)
+
 # [1.1.0](https://github.com/yeshamavani/release-auti2/compare/v1.0.0...v1.1.0) (2021-12-13)
 
 
