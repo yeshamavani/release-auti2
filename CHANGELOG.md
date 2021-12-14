@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/yeshamavani/release-auti2/compare/v1.1.1...v2.0.0) (2021-12-14)
+
+
+### Performance Improvements
+
+* **ci-cd:** breaking change ([fbfc57b](https://github.com/yeshamavani/release-auti2/commit/fbfc57ba8598bdf4c7bc57a425348991f29b3794)), closes [#00](https://github.com/yeshamavani/release-auti2/issues/00)
+
+
+### BREAKING CHANGES
+
+* **ci-cd:** trying the breaking chnage
+
 ## [1.1.1](https://github.com/yeshamavani/release-auti2/compare/v1.1.0...v1.1.1) (2021-12-14)
 
 
