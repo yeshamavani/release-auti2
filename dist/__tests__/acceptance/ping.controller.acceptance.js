@@ -13,7 +13,7 @@ describe('PingController', () => {
     });
     it('invokes GET /ping', async () => {
         const res = await client.get('/ping?msg=world').expect(200);
-        (0, testlab_1.expect)(res.body).to.containEql({ greeting: 'Hello from LoopBack123' });
+        (0, testlab_1.expect)(res.body).to.containEql({ greeting: 'Hello from LoopBack15' });
     });
 });
 //# sourceMappingURL=ping.controller.acceptance.js.map

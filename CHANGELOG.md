@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/yeshamavani/release-auti2/compare/v2.0.0...v2.1.0) (2021-12-14)
+
+
+### Features
+
+* **chore:** dry run ([5627b36](https://github.com/yeshamavani/release-auti2/commit/5627b363290a119eaf6d726917ecd11746f81940)), closes [#00](https://github.com/yeshamavani/release-auti2/issues/00)
+
 # [2.0.0](https://github.com/yeshamavani/release-auti2/compare/v1.1.1...v2.0.0) (2021-12-14)
 
 
