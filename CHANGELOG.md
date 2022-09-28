@@ -1,3 +1,11 @@
+# [2.2.0](https://github.com/yeshamavani/release-auti2/compare/v2.1.1...v2.2.0) (2022-09-28)
+
+
+### Features
+
+* **chore:** release notes ([6bb475f](https://github.com/yeshamavani/release-auti2/commit/6bb475f1fd5def053aa2d32c7f1120f100027b41)), closes [#145](https://github.com/yeshamavani/release-auti2/issues/145)
+* **core:** release notes check ([9ca67d7](https://github.com/yeshamavani/release-auti2/commit/9ca67d7f1b4bd9260302a9f667f88a3b9c869f40)), closes [#146](https://github.com/yeshamavani/release-auti2/issues/146)
+
 ## [2.1.1](https://github.com/yeshamavani/release-auti2/compare/v2.1.0...v2.1.1) (2022-09-23)
 
 # [2.1.0](https://github.com/yeshamavani/release-auti2/compare/v2.0.0...v2.1.0) (2021-12-14)
