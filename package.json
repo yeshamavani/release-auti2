@@ -76,8 +76,10 @@
     "cz-customizable": "^6.3.0",
     "cz-customizable-ghooks": "^2.0.0",
     "eslint": "^8.22.0",
+    "git-release-notes": "^5.0.0",
     "husky": "^7.0.4",
     "semantic-release": "^18.0.1",
+    "simple-git": "^3.14.1",
     "source-map-support": "^0.5.21",
     "typescript": "~4.7.4"
   },
