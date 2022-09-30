@@ -11,16 +11,7 @@ async function generateReleaseNotes() {
     //   RANGE = res;
     // });
     console.log(RANGE);
-    const TEMPLATE = 'html';
-
-    // releaseNotes(OPTIONS, RANGE, TEMPLATE)
-    //   .then(changelog => {
-    //     console.log(`Release Notes between ${RANGE}\n\n${changelog}`);
-    //   })
-    //   .catch(ex => {
-    //     console.error(ex);
-    //     process.exit(1);
-    //   });
+    const TEMPLATE = 'markdown';
 
     const changelog = await releaseNotes(OPTIONS, RANGE, TEMPLATE);
     console.log(`Release Notes between ${RANGE}\n\n${changelog}`);
