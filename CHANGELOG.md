@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/yeshamavani/release-auti2/compare/v2.2.0...v2.3.0) (2022-09-30)
+
+
+### Features
+
+* **core:** markdown release notes ([f6c751a](https://github.com/yeshamavani/release-auti2/commit/f6c751af929156b1baf65aed4f2c27556f18f01b)), closes [#178](https://github.com/yeshamavani/release-auti2/issues/178)
+
 # [2.2.0](https://github.com/yeshamavani/release-auti2/compare/v2.1.1...v2.2.0) (2022-09-28)
 
 
