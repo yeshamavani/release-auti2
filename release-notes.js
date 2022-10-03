@@ -7,11 +7,8 @@ async function generateReleaseNotes() {
       branch: 'master',
     };
     const RANGE = await build();
-    // build().then(res => {
-    //   RANGE = res;
-    // });
     console.log(RANGE);
-    const TEMPLATE = 'markdown';
+    const TEMPLATE = './mymarkdown.ejs';
 
     const changelog = await releaseNotes(OPTIONS, RANGE, TEMPLATE);
     console.log(`Release Notes between ${RANGE}\n\n${changelog}`);
@@ -23,16 +20,11 @@ async function generateReleaseNotes() {
 
 async function build() {
   const git = simpleGit();
-  // const tags = (await git.tag()).replace(/[\r\n]/gm, '');
   const tags = (await git.tag()).split('\n');
   tags.pop();
 
   const startTag = tags.slice(-2)[0];
   const endTag = tags.slice(-1)[0];
-  console.log(startTag);
-  console.log(endTag);
-  console.log(tags);
-  console.log(`${startTag}..${endTag}`);
   return `${startTag}..${endTag}`;
 }
 
