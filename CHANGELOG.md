@@ -1,3 +1,10 @@
+# [2.4.0](https://github.com/yeshamavani/release-auti2/compare/v2.3.0...v2.4.0) (2022-10-03)
+
+
+### Features
+
+* **core:** custom ejs ([858113a](https://github.com/yeshamavani/release-auti2/commit/858113a7c8e1bc48e805ac46f982ebf1afa68cf1)), closes [#190](https://github.com/yeshamavani/release-auti2/issues/190)
+
 # [2.3.0](https://github.com/yeshamavani/release-auti2/compare/v2.2.0...v2.3.0) (2022-09-30)
 
 
