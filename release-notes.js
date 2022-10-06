@@ -54,10 +54,6 @@ async function addAndCommit() {
   console.log(`ab push hogi file`);
   const push = await git.push('origin', 'master');
   console.log(`push--- ${push}`);
-  // await git.commit('chore(release): changelog file', ['CHANGELOG.md'], {
-  //   '--no-verify': null,
-  // });
-  //.push('origin', 'master');
 }
 
 generateReleaseNotes().catch(ex => {

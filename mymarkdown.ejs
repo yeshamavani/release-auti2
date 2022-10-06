@@ -1,6 +1,11 @@
+## Release [<%= range.split('..')[1] %>](https://github.com/yeshamavani/release-auti2/compare/<%= range %>) <%= new Date().toLocaleDateString('en-us', { weekday:"long", year:"numeric", month:"short", day:"numeric"})
+;%>
 <% commits.forEach(function (commit) { %>
+  <% if(commit.authorName !== 'semantic-release-bot'){ %>
   * __<%= commit.title %>__
-      [<%= commit.authorName %>](mailto:<%= commit.authorEmail %>) - <%= commit.committerDate %>
+      [<%= commit.authorName %>](mailto:<%= commit.authorEmail %>) committed [the following changes](https://github.com/yeshamavani/release-auti2/commit/<%= commit.sha1%>) on <%= commit.committerDate %>
 
       <%= commit.messageLines.join("\n    ") %>
+      <% } -%>
   <% }) %>
+  ___
