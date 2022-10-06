@@ -1,5 +1,22 @@
+## Release [v2.7.0](https://github.com/yeshamavani/release-auti2/compare/v2.6.0..v2.7.0) Thursday, Oct 6, 2022
 
-  * __chore(release): 2.6.0 semantic__
+    
+  
+  * __feat(chore): chnagelog__
+      [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com) committed [the following changes](https://github.com/yeshamavani/release-auti2/commit/dc128a53e079e5485bb334309dfe64d4a370fd6b) on Thu, 6 Oct 2022 18:44:01 +0530
+
+      efs/remotes/origin/master
+    GH-88
+    
+        
+  
+  * __chore(release): changelog file999__
+      [yeshamavani](mailto:yesha.mavani@sourcefuse.com) committed [the following changes](https://github.com/yeshamavani/release-auti2/commit/00386cba88744d30dd74cd684c54793e67c39feb) on Thu, 6 Oct 2022 07:01:41 +0000
+
+      
+        
+  ___
+* __chore(release): 2.6.0 semantic__
       [semantic-release-bot](mailto:semantic-release-bot@martynus.net) - Thu, 6 Oct 2022 07:01:22 +0000
 
       EAD -&gt; refs/heads/master, tag: refs/tags/v2.6.0
