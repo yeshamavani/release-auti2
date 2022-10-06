@@ -10,6 +10,17 @@
       
     GH-190
   
+* __chore(release): 2.4.0 semantic__
+      [semantic-release-bot](mailto:semantic-release-bot@martynus.net) - Mon, 3 Oct 2022 07:08:05 +0000
+
+      
+  
+  * __feat(core): custom ejs__
+      [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com) - Mon, 3 Oct 2022 12:00:22 +0530
+
+      
+    GH-190
+  
 # [2.4.0](https://github.com/yeshamavani/release-auti2/compare/v2.3.0...v2.4.0) (2022-10-03)
 
 
