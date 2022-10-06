@@ -1,5 +1,17 @@
 
-  * __chore(release): 2.4.0 semantic__
+  * __chore(release): 2.6.0 semantic__
+      [semantic-release-bot](mailto:semantic-release-bot@martynus.net) - Thu, 6 Oct 2022 07:01:22 +0000
+
+      EAD -&gt; refs/heads/master, tag: refs/tags/v2.6.0
+    
+  
+  * __feat(chore): husky__
+      [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com) - Thu, 6 Oct 2022 12:30:24 +0530
+
+      efs/remotes/origin/master
+    GH-99
+  
+* __chore(release): 2.4.0 semantic__
       [semantic-release-bot](mailto:semantic-release-bot@martynus.net) - Mon, 3 Oct 2022 07:08:05 +0000
 
       
