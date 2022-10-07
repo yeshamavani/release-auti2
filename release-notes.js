@@ -25,7 +25,7 @@ async function generateReleaseNotes() {
     await writeFile(changelogPath, changelog);
     await writeFile(changelogPath, currentFile, {flag: 'a+'});
     await addAndCommit().then(() => {
-      console.log('here----');
+      console.log('Changelog has been updated');
     });
   } catch (ex) {
     console.error(ex);
@@ -45,15 +45,11 @@ async function getRange() {
 
 async function addAndCommit() {
   const git = simpleGit();
-  const add = await git.add(['CHANGELOG.md']);
-  console.log(`add---- ${add}`);
-  const committt = await git.commit('chore(release): changelog file999', {
+  await git.add(['CHANGELOG.md']);
+  await git.commit('chore(release): changelog file', {
     '--no-verify': null,
   });
-  console.log(`committ=== ${committt}`);
-  console.log(`ab push hogi file`);
-  const push = await git.push('origin', 'master');
-  console.log(`push--- ${push}`);
+  await git.push('origin', 'master');
 }
 
 generateReleaseNotes().catch(ex => {
