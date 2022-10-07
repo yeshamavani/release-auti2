@@ -9,6 +9,17 @@
     GH-99
         
   ___
+## Release [v2.6.0](https://github.com/yeshamavani/release-auti2/compare/v2.5.0..v2.6.0) Friday, Oct 7, 2022
+
+    
+  
+  * __feat(chore): husky__
+      [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com) committed [the following changes](https://github.com/yeshamavani/release-auti2/commit/73060f32fc2478d081314b8b98e1c5e18cadb7c9) on Thu, 6 Oct 2022 12:30:24 +0530
+
+      
+    GH-99
+        
+  ___
 * __chore(release): 2.6.0 semantic__
       [semantic-release-bot](mailto:semantic-release-bot@martynus.net) - Thu, 6 Oct 2022 07:01:22 +0000
 
