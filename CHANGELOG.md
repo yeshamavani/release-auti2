@@ -1,3 +1,38 @@
+## Release [v2.8.0](https://github.com/yeshamavani/release-auti2/compare/v2.7.1..v2.8.0) Monday, Oct 17, 2022
+
+      
+    
+  * __fix(core): abcd__
+      [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com) committed [the following changes](https://github.com/yeshamavani/release-auti2/commit/bb3e93ed02c894558ab724a81d9a4a205e6a375a) on Mon, 17 Oct 2022 14:34:57 +0530
+
+      efs/remotes/origin/new-branch
+    GH-8
+    
+      issue number = GH-8
+      issue
+        
+    
+  * __feat(chore): new feature__
+      [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com) committed [the following changes](https://github.com/yeshamavani/release-auti2/commit/e07c5505fa28330125c60f7c6d66a8f121f92969) on Mon, 17 Oct 2022 14:30:20 +0530
+
+      efs/remotes/origin/GH-6
+    GH-6
+    
+      issue number = efs/remotes/origin/GH-6
+      issue
+        
+    
+  * __fix(provider): new issue__
+      [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com) committed [the following changes](https://github.com/yeshamavani/release-auti2/commit/a6aec13a94576d63477333d45417c012bdfb9963) on Mon, 17 Oct 2022 14:27:31 +0530
+
+      efs/remotes/origin/new-issue
+    GH-4
+    
+      issue number = GH-4
+      issue
+        
+      
+  ___
 ## Release [v2.7.1](https://github.com/yeshamavani/release-auti2/compare/v2.7.0..v2.7.1) Monday, Oct 17, 2022
 
       
