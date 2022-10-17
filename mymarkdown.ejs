@@ -6,6 +6,8 @@
       [<%= commit.authorName %>](mailto:<%= commit.authorEmail %>) committed [the following changes](https://github.com/yeshamavani/release-auti2/commit/<%= commit.sha1%>) on <%= commit.committerDate %>
 
       <%= commit.messageLines.join("\n    ") %>
+      issue number = <%= commit.messageLines[commit.messageLines.findIndex(ele => ele.includes('GH-'))] %>
+      issue
       <% } -%>
   <% }) %>
   ___
