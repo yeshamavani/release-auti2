@@ -1,3 +1,59 @@
+## Release [v2.7.1](https://github.com/yeshamavani/release-auti2/compare/v2.7.0..v2.7.1) Monday, Oct 17, 2022
+
+      
+    
+  * __fix(core): commit via issue__
+      [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com) committed [the following changes](https://github.com/yeshamavani/release-auti2/commit/f6e9d307def03a0fa4afa9521674051c06ed4ce0) on Mon, 17 Oct 2022 14:10:42 +0530
+
+      efs/remotes/origin/GH-2
+    GH-2
+    
+      issue number = efs/remotes/origin/GH-2
+      issue
+        
+    
+  * __Update issue templates__
+      [yeshamavani](mailto:83634146+yeshamavani@users.noreply.github.com) committed [the following changes](https://github.com/yeshamavani/release-auti2/commit/1830d94b7cbd9976e8554481ac001ba2437e3e27) on Mon, 17 Oct 2022 12:55:09 +0530
+
+      
+    
+      issue number = 
+      issue
+        
+    
+  * __Update issue templates__
+      [yeshamavani](mailto:83634146+yeshamavani@users.noreply.github.com) committed [the following changes](https://github.com/yeshamavani/release-auti2/commit/707fb2692a9986383e288fc405170b61ac696523) on Mon, 17 Oct 2022 12:54:24 +0530
+
+      
+    
+      issue number = 
+      issue
+        
+    
+  * __perf(core): will ignore chore-release in changelog__
+      [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com) committed [the following changes](https://github.com/yeshamavani/release-auti2/commit/36c229fd9005f630d7a5a5c1356cea1a995d12b0) on Fri, 7 Oct 2022 12:03:09 +0530
+
+      
+    GH-88
+    
+      issue number = GH-88
+      issue
+        
+    
+  * __refactor(chore): remove console__
+      [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com) committed [the following changes](https://github.com/yeshamavani/release-auti2/commit/3a75dd25b621ada2f29c381cd4c9016471b3ba89) on Fri, 7 Oct 2022 11:40:37 +0530
+
+      
+    GH-88
+    
+      issue number = GH-88
+      issue
+        
+      
+      
+      
+      
+  ___
 ## Release [v2.7.0](https://github.com/yeshamavani/release-auti2/compare/v2.6.0..v2.7.0) Thursday, Oct 6, 2022
 
 - **feat(chore): chnagelog**
