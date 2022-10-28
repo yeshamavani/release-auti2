@@ -1,3 +1,8 @@
+## Release [v2.9.0](https://github.com/yeshamavani/release-auti2/compare/v2.8.0..v2.9.0) Friday, Oct 28, 2022
+
+  - [use post processing-script for all the commit data manipulation](https://github.com/yeshamavani/release-auti2/issues/10) :- [feat(ci-cd): post processing script](https://github.com/yeshamavani/release-auti2/commit/8f950b8aa2f6808f757e30f7023db6b67538f11c) was commited on Fri, 28 Oct 2022 13:09:46 +0530 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+  
+  ___
 ## Release [v2.8.0](https://github.com/yeshamavani/release-auti2/compare/v2.7.1..v2.8.0) Monday, Oct 17, 2022
 
       
