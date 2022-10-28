@@ -7,6 +7,7 @@ async function generateReleaseNotes() {
   try {
     const OPTIONS = {
       branch: 'master',
+      s: './post-script.js',
     };
     const RANGE = await getRange();
     const TEMPLATE = './mymarkdown.ejs';
