@@ -1,3 +1,8 @@
+## Release [v2.9.2](https://github.com/yeshamavani/release-auti2/compare/v2.9.1..v2.9.2) Monday, Oct 31, 2022
+
+  - [format the date.](https://github.com/yeshamavani/release-auti2/issues/13) :- [fix(ci-cd): format the date](https://github.com/yeshamavani/release-auti2/commit/f3162619519076021b147eeb7c720eb2b4b5de97) was commited on Monday, Oct 31, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+  
+  ___
 ## Release [v2.9.1](https://github.com/yeshamavani/release-auti2/compare/v2.9.0..v2.9.1) Monday, Oct 31, 2022
 
   - [format the date.](https://github.com/yeshamavani/release-auti2/issues/13) :- [fix(ci-cd): formating date to readable form](https://github.com/yeshamavani/release-auti2/commit/e39b53ae93788a08380b5752c56e60e9d435ca75) was commited on Fri, 28 Oct 2022 18:54:58 +0530 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
