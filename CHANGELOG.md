@@ -1,3 +1,12 @@
+## Release [v2.9.1](https://github.com/yeshamavani/release-auti2/compare/v2.9.0..v2.9.1) Monday, Oct 31, 2022
+
+  - [format the date.](https://github.com/yeshamavani/release-auti2/issues/13) :- [fix(ci-cd): formating date to readable form](https://github.com/yeshamavani/release-auti2/commit/e39b53ae93788a08380b5752c56e60e9d435ca75) was commited on Fri, 28 Oct 2022 18:54:58 +0530 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+  
+  - [another bug created](https://github.com/yeshamavani/release-auti2/issues/12) :- [fix(component): another bug](https://github.com/yeshamavani/release-auti2/commit/b7ab34c728b08b85088c573eb33189f3770cb147) was commited on Fri, 28 Oct 2022 16:59:11 +0530 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+  
+  - [new bug for trial](https://github.com/yeshamavani/release-auti2/issues/11) :- [fix(provider): new trial bug](https://github.com/yeshamavani/release-auti2/commit/0327389f7dab5239adb7ef95d0121b717b0e9577) was commited on Fri, 28 Oct 2022 16:56:46 +0530 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+  
+  ___
 ## Release [v2.9.0](https://github.com/yeshamavani/release-auti2/compare/v2.8.0..v2.9.0) Friday, Oct 28, 2022
 
   - [use post processing-script for all the commit data manipulation](https://github.com/yeshamavani/release-auti2/issues/10) :- [feat(ci-cd): post processing script](https://github.com/yeshamavani/release-auti2/commit/8f950b8aa2f6808f757e30f7023db6b67538f11c) was commited on Fri, 28 Oct 2022 13:09:46 +0530 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
