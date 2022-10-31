@@ -21,15 +21,15 @@ module.exports = async function (data, callback) {
     });
     commit.issueTitle = issueDesc;
 
-    // commit.committerDate = new Date(commit.committerDate).toLocaleDateString(
-    //   'en-us',
-    //   {
-    //     weekday: 'long',
-    //     year: 'numeric',
-    //     month: 'short',
-    //     day: 'numeric',
-    //   },
-    // );
+    commit.committerDate = new Date(commit.committerDate).toLocaleDateString(
+      'en-us',
+      {
+        weekday: 'long',
+        year: 'numeric',
+        month: 'short',
+        day: 'numeric',
+      },
+    );
     rewritten.push(commit);
   }
   callback({
