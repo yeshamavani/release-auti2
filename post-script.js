@@ -8,6 +8,7 @@ module.exports = async function (data, callback) {
     if (commit.title.indexOf('chore(release)') !== -1) {
       continue;
     }
+
     commit.messageLines = commit.messageLines.filter(message => {
       if (message.indexOf('efs/remotes/origin') === -1) return message;
     });
@@ -15,6 +16,9 @@ module.exports = async function (data, callback) {
     commit.messageLines.forEach(message => {
       commit.issueno = message.includes('GH-') ? message.slice(3) : null;
     });
+
+    const allMessage = commit.messageLines.join('/n');
+    console.log(`message ---${allMessage}`);
 
     const issueDesc = await getIssueDesc(commit.issueno).then(res => {
       return res;
