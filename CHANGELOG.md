@@ -1,3 +1,10 @@
+## Release [v2.9.3](https://github.com/yeshamavani/release-auti2/compare/v2.9.2..v2.9.3) Monday, Oct 31, 2022
+
+  - [rename the PR template file](https://github.com/yeshamavani/release-auti2/issues/14) :- [fix(component): rename PR template file](https://github.com/yeshamavani/release-auti2/commit/9014d46b6a4711d2a13169043294affb467d4c55) was commited on Monday, Oct 31, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+  
+  - [](https://github.com/yeshamavani/release-auti2/issues/) :- [pull request template](https://github.com/yeshamavani/release-auti2/commit/f1fc5b8f5c98756149e6234c9f217e2880a6fc2e) was commited on Monday, Oct 31, 2022 by [yeshamavani](mailto:83634146+yeshamavani@users.noreply.github.com)
+  
+  ___
 ## Release [v2.9.2](https://github.com/yeshamavani/release-auti2/compare/v2.9.1..v2.9.2) Monday, Oct 31, 2022
 
   - [format the date.](https://github.com/yeshamavani/release-auti2/issues/13) :- [fix(ci-cd): format the date](https://github.com/yeshamavani/release-auti2/commit/f3162619519076021b147eeb7c720eb2b4b5de97) was commited on Monday, Oct 31, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
