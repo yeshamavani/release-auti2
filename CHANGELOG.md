@@ -1,3 +1,8 @@
+## Release [v3.0.0](https://github.com/yeshamavani/release-auti2/compare/v2.11.1..v3.0.0) Tuesday, Nov 1, 2022
+
+  - [bug lets make it a breaking change](https://github.com/yeshamavani/release-auti2/issues/24) :- [fix(chore): breaking subject](https://github.com/yeshamavani/release-auti2/commit/9531037fce92e8e46cd8d4b325117ce3b03c45f1) was commited on Tuesday, Nov 1, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    - breaking body  
+  ___
 ## Release [v2.11.1](https://github.com/yeshamavani/release-auti2/compare/v2.11.0..v2.11.1) Tuesday, Nov 1, 2022
 
   - [new issue](https://github.com/yeshamavani/release-auti2/issues/22) :- [fix(chore): new issue](https://github.com/yeshamavani/release-auti2/commit/20f61f1a528e57713a61add70ff02bb96f6c4369) was commited on Tuesday, Nov 1, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
