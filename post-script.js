@@ -2,9 +2,7 @@ const https = require('node:https');
 const jsdom = require('jsdom');
 module.exports = async function (data, callback) {
   const rewritten = [];
-  //for (let i = 0; i < data.commits.length; i++) {
   for (const commit of data.commits) {
-    //const commit = data.commits[i];
     if (commit.title.indexOf('chore(release)') !== -1) {
       continue;
     }
@@ -16,9 +14,6 @@ module.exports = async function (data, callback) {
     commit.messageLines.forEach(message => {
       commit.issueno = message.includes('GH-') ? message.slice(3) : null;
     });
-
-    const allMessage = commit.messageLines.join('/n');
-    console.log(`message ---${allMessage}`);
 
     const issueDesc = await getIssueDesc(commit.issueno).then(res => {
       return res;
