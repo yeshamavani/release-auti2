@@ -1,3 +1,8 @@
+## Release [v2.11.0](https://github.com/yeshamavani/release-auti2/compare/v2.10.1..v2.11.0) Tuesday, Nov 1, 2022
+
+  - [make the body mandatory while committing](https://github.com/yeshamavani/release-auti2/issues/19) :- [feat(provider): make the commit body mandatory](https://github.com/yeshamavani/release-auti2/commit/b2e316b96579fa556ba765438b8cc153d143c5ab) was commited on Tuesday, Nov 1, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+  
+  ___
 ## Release [v2.9.3](https://github.com/yeshamavani/release-auti2/compare/v2.9.2..v2.9.3) Monday, Oct 31, 2022
 
   - [rename the PR template file](https://github.com/yeshamavani/release-auti2/issues/14) :- [fix(component): rename PR template file](https://github.com/yeshamavani/release-auti2/commit/9014d46b6a4711d2a13169043294affb467d4c55) was commited on Monday, Oct 31, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
