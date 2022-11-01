@@ -5,6 +5,13 @@
   - [make the body mandatory while committing](https://github.com/yeshamavani/release-auti2/issues/19) :- [fix(component): add description is chnagelog](https://github.com/yeshamavani/release-auti2/commit/8392a8ddcf9d85a03d71895c8c954d2f8491d6f8) was commited on Tuesday, Nov 1, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
     - added messgaes as a part of description  
   ___
+## Release [v2.11.1](https://github.com/yeshamavani/release-auti2/compare/v2.11.0..v2.11.1) Tuesday, Nov 1, 2022
+
+  - [new issue](https://github.com/yeshamavani/release-auti2/issues/22) :- [fix(chore): new issue](https://github.com/yeshamavani/release-auti2/commit/20f61f1a528e57713a61add70ff02bb96f6c4369) was commited on Tuesday, Nov 1, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    - the body describing the details  
+  - [make the body mandatory while committing](https://github.com/yeshamavani/release-auti2/issues/19) :- [fix(component): add description is chnagelog](https://github.com/yeshamavani/release-auti2/commit/8392a8ddcf9d85a03d71895c8c954d2f8491d6f8) was commited on Tuesday, Nov 1, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    - added messgaes as a part of description  
+  ___
 ## Release [v2.11.0](https://github.com/yeshamavani/release-auti2/compare/v2.10.1..v2.11.0) Tuesday, Nov 1, 2022
 
   - [make the body mandatory while committing](https://github.com/yeshamavani/release-auti2/issues/19) :- [feat(provider): make the commit body mandatory](https://github.com/yeshamavani/release-auti2/commit/b2e316b96579fa556ba765438b8cc153d143c5ab) was commited on Tuesday, Nov 1, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
