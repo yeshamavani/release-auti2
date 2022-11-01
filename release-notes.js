@@ -36,7 +36,7 @@ async function generateReleaseNotes() {
 
 async function getRange() {
   const git = simpleGit();
-  const tags = (await git.tag()).split('\n');
+  const tags = (await git.tag({'--sort': 'committerdate'})).split('\n');
   tags.pop();
 
   const startTag = tags.slice(-2)[0];
