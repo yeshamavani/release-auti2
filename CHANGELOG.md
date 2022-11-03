@@ -1,3 +1,27 @@
+## Release [v3.0.0](https://github.com/yeshamavani/release-auti2/compare/v2.11.1..v3.0.0) Thursday, Nov 3, 2022
+
+  - [bug lets make it a breaking change](https://github.com/yeshamavani/release-auti2/issues/24) :- [fix(chore): breaking subject](https://github.com/yeshamavani/release-auti2/commit/9531037fce92e8e46cd8d4b325117ce3b03c45f1) was commited on Tuesday, Nov 1, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+      - breaking body
+      
+      - BREAKING CHANGE: breaking change
+      
+      - GH-24
+      
+  
+  ___
+## Release [v3.0.0](https://github.com/yeshamavani/release-auti2/compare/v2.11.1..v3.0.0) Thursday, Nov 3, 2022
+
+  - [](https://github.com/yeshamavani/release-auti2/issues//remotes/origin/GH-24, refs/heads/GH-24) :- [fix(chore): breaking subject](https://github.com/yeshamavani/release-auti2/commit/9531037fce92e8e46cd8d4b325117ce3b03c45f1) was commited on Tuesday, Nov 1, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+      - breaking body
+      
+      - BREAKING CHANGE: breaking change
+      
+      - GH-24
+      
+  
+  ___
 ## Release [v3.0.0](https://github.com/yeshamavani/release-auti2/compare/v2.11.1..v3.0.0) Tuesday, Nov 1, 2022
 
   - [bug lets make it a breaking change](https://github.com/yeshamavani/release-auti2/issues/24) :- [fix(chore): breaking subject](https://github.com/yeshamavani/release-auti2/commit/9531037fce92e8e46cd8d4b325117ce3b03c45f1) was commited on Tuesday, Nov 1, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
