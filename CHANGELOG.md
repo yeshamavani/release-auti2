@@ -1,3 +1,29 @@
+## Release [v4.0.0](https://github.com/yeshamavani/release-auti2/compare/v3.0.0..v4.0.0) Thursday, Nov 3, 2022
+
+  - [bug that will be a breaking change](https://github.com/yeshamavani/release-auti2/issues/29) :- [fix(chore): breaking change title subject](https://github.com/yeshamavani/release-auti2/commit/08c4d8e4008d5fb8e64b01c3e8140c26ca757eec) was commited on Thursday, Nov 3, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+      - a longer description for breaking change
+      
+      - BREAKING CHANGE: its is breakingg change
+      
+      - GH-29
+      
+  
+  - [minor bug](https://github.com/yeshamavani/release-auti2/issues/28) :- [fix(chore): a bug fix](https://github.com/yeshamavani/release-auti2/commit/e11ee41ef91570de7afa76574055d3a9b1f507d5) was commited on Thursday, Nov 3, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+      - this is a minro issue bug fix
+      
+      - GH-28
+      
+  
+  - [breaking change message part of description](https://github.com/yeshamavani/release-auti2/issues/26) :- [fix(ci-cd): breaking change part of description](https://github.com/yeshamavani/release-auti2/commit/f2cb8ab57471e966b26668cc55b0e8ec14daa534) was commited on Thursday, Nov 3, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+      - now breaking change details will also be a part of chnagelog description
+      
+      - GH-26
+      
+  
+  ___
 ## Release [v3.0.0](https://github.com/yeshamavani/release-auti2/compare/v2.11.1..v3.0.0) Thursday, Nov 3, 2022
 
   - [bug lets make it a breaking change](https://github.com/yeshamavani/release-auti2/issues/24) :- [fix(chore): breaking subject](https://github.com/yeshamavani/release-auti2/commit/9531037fce92e8e46cd8d4b325117ce3b03c45f1) was commited on Tuesday, Nov 1, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
