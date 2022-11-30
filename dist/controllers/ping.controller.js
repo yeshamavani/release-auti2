@@ -41,23 +41,23 @@ let PingController = class PingController {
     ping() {
         // Reply with a greeting, the current time, the url, and request headers
         return {
-            greeting: 'Hello from LoopBack15',
+            greeting: 'Hello from LoopBack1',
             date: new Date(),
             url: this.req.url,
             headers: Object.assign({}, this.req.headers),
         };
     }
 };
-(0, tslib_1.__decorate)([
+tslib_1.__decorate([
     (0, rest_1.get)('/ping'),
     (0, rest_1.response)(200, PING_RESPONSE),
-    (0, tslib_1.__metadata)("design:type", Function),
-    (0, tslib_1.__metadata)("design:paramtypes", []),
-    (0, tslib_1.__metadata)("design:returntype", Object)
+    tslib_1.__metadata("design:type", Function),
+    tslib_1.__metadata("design:paramtypes", []),
+    tslib_1.__metadata("design:returntype", Object)
 ], PingController.prototype, "ping", null);
-PingController = (0, tslib_1.__decorate)([
-    (0, tslib_1.__param)(0, (0, core_1.inject)(rest_1.RestBindings.Http.REQUEST)),
-    (0, tslib_1.__metadata)("design:paramtypes", [Object])
+PingController = tslib_1.__decorate([
+    tslib_1.__param(0, (0, core_1.inject)(rest_1.RestBindings.Http.REQUEST)),
+    tslib_1.__metadata("design:paramtypes", [Object])
 ], PingController);
 exports.PingController = PingController;
 //# sourceMappingURL=ping.controller.js.map
