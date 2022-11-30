@@ -1,3 +1,19 @@
+## Release [v5.0.1](https://github.com/yeshamavani/release-auti2/compare/v5.0.0..v5.0.1) Wednesday, Nov 30, 2022
+
+  - [check if \n works](https://github.com/yeshamavani/release-auti2/issues/40) :- [fix(chore): check for line break](https://github.com/yeshamavani/release-auti2/commit/410be2756dde134693657bb1ca08e6e24eecf50f) was commited on Wednesday, Nov 30, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+      - line one
+      
+      - line two
+      
+      - line three
+      
+      - line four
+      
+      - GH-40
+      
+  
+  ___
 ## Release [v5.0.0](https://github.com/yeshamavani/release-auti2/compare/v4.0.0..v5.0.0) Wednesday, Nov 30, 2022
 
   - [another for testing](https://github.com/yeshamavani/release-auti2/issues/35) :- [feat(chore): subject for the change](https://github.com/yeshamavani/release-auti2/commit/b8cef403861f441a5331c650df52bdf4d5794bb6) was commited on Wednesday, Nov 30, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
