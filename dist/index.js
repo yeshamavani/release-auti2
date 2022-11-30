@@ -4,7 +4,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.main = void 0;
 const tslib_1 = require("tslib");
 const application_1 = require("./application");
-(0, tslib_1.__exportStar)(require("./application"), exports);
+tslib_1.__exportStar(require("./application"), exports);
 async function main(options = {}) {
     const app = new application_1.ReleaseAuti2Application(options);
     await app.boot();

@@ -87,7 +87,7 @@ declare const ReleaseAuti2Application_base: (new (...args: any[]) => {
     listeners: (event: string | symbol) => Function[];
     rawListeners: (event: string | symbol) => Function[];
     emit: (event: string | symbol, ...args: any[]) => boolean;
-    listenerCount: (type: string | symbol) => number;
+    listenerCount: (event: string | symbol) => number;
     prependListener: (event: string | symbol, listener: (...args: any[]) => void) => import("@loopback/core").Application;
     prependOnceListener: (event: string | symbol, listener: (...args: any[]) => void) => import("@loopback/core").Application;
     eventNames: () => (string | symbol)[];
@@ -172,7 +172,7 @@ declare const ReleaseAuti2Application_base: (new (...args: any[]) => {
     listeners: (event: string | symbol) => Function[];
     rawListeners: (event: string | symbol) => Function[];
     emit: (event: string | symbol, ...args: any[]) => boolean;
-    listenerCount: (type: string | symbol) => number;
+    listenerCount: (event: string | symbol) => number;
     prependListener: (event: string | symbol, listener: (...args: any[]) => void) => import("@loopback/core").Application;
     prependOnceListener: (event: string | symbol, listener: (...args: any[]) => void) => import("@loopback/core").Application;
     eventNames: () => (string | symbol)[];
@@ -262,7 +262,7 @@ declare const ReleaseAuti2Application_base: (new (...args: any[]) => {
     listeners: (event: string | symbol) => Function[];
     rawListeners: (event: string | symbol) => Function[];
     emit: (event: string | symbol, ...args: any[]) => boolean;
-    listenerCount: (type: string | symbol) => number;
+    listenerCount: (event: string | symbol) => number;
     prependListener: (event: string | symbol, listener: (...args: any[]) => void) => import("@loopback/core").Application;
     prependOnceListener: (event: string | symbol, listener: (...args: any[]) => void) => import("@loopback/core").Application;
     eventNames: () => (string | symbol)[];
