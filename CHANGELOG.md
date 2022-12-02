@@ -12,6 +12,20 @@
       
   
   ___
+## Release [v5.2.0](https://github.com/yeshamavani/release-auti2/compare/v5.1.0..v5.2.0) Friday, Dec 2, 2022
+
+  - [Another feature request done here](https://github.com/yeshamavani/release-auti2/issues/45) :- [feat(component): change feature](https://github.com/yeshamavani/release-auti2/commit/50199244b51c6863956810c62feacb8412137e5a) was commited on Friday, Dec 2, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+      - this is a feature change
+      
+      - description change
+      
+      - line three
+      
+      - GH-45
+      
+  
+  ___
 ## Release [v5.1.0](https://github.com/yeshamavani/release-auti2/compare/v5.0.1..v5.1.0) Friday, Dec 2, 2022
 
   - [Createing a new bug here ](https://github.com/yeshamavani/release-auti2/issues/43) :- [fix(component): bug created here](https://github.com/yeshamavani/release-auti2/commit/f97a50dc6b1c036e699cf901ca2d1b6a1fdbdfc6) was commited on Friday, Dec 2, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
