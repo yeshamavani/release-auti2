@@ -1,3 +1,27 @@
+## Release [v5.1.0](https://github.com/yeshamavani/release-auti2/compare/v5.0.1..v5.1.0) Friday, Dec 2, 2022
+
+  - [Createing a new bug here ](https://github.com/yeshamavani/release-auti2/issues/43) :- [fix(component): bug created here](https://github.com/yeshamavani/release-auti2/commit/f97a50dc6b1c036e699cf901ca2d1b6a1fdbdfc6) was commited on Friday, Dec 2, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+      - bug description changes in ping controller changed the greeting message
+      
+      - GH-43
+      
+  
+  - [A new feature request ](https://github.com/yeshamavani/release-auti2/issues/44) :- [feat(chore): this was a fature request](https://github.com/yeshamavani/release-auti2/commit/01583bd1cb61dbaa61ca8029f76d5637a2d437cf) was commited on Friday, Dec 2, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+      - description of my change more detail of the change some more change
+      
+      - GH-44
+      
+  
+  - [This is a bug that was created ](https://github.com/yeshamavani/release-auti2/issues/42) :- [fix(provider): abug was reported](https://github.com/yeshamavani/release-auti2/commit/7d47e86d1f3b51f5a31a62f4f9560e489722f581) was commited on Friday, Dec 2, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+      - bug line one another line line three
+      
+      - GH-42
+      
+  
+  ___
 ## Release [v5.0.1](https://github.com/yeshamavani/release-auti2/compare/v5.0.0..v5.0.1) Wednesday, Nov 30, 2022
 
   - [check if \n works](https://github.com/yeshamavani/release-auti2/issues/40) :- [fix(chore): check for line break](https://github.com/yeshamavani/release-auti2/commit/410be2756dde134693657bb1ca08e6e24eecf50f) was commited on Wednesday, Nov 30, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
