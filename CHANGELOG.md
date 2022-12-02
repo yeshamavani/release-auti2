@@ -1,3 +1,26 @@
+## Release [v5.3.0](https://github.com/yeshamavani/release-auti2/compare/v5.2.0..v5.3.0) Friday, Dec 2, 2022
+
+  - [New bug created](https://github.com/yeshamavani/release-auti2/issues/51) :- [fix(chore): this is a bug subject](https://github.com/yeshamavani/release-auti2/commit/94d18c77862fd1e56f7bc4d77a3a4b55f9ea33fa) was commited on Friday, Dec 2, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+      - changed the ping controller
+      
+      - this change was made due to this reason
+      
+      - new line
+      
+      - GH-51
+      
+  
+  - [A new feature created for testing](https://github.com/yeshamavani/release-auti2/issues/52) :- [feat(chore): this is a feature request](https://github.com/yeshamavani/release-auti2/commit/535eac4737eed09776313b996cd8e07d2e116a47) was commited on Friday, Dec 2, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+      - changed the ping controller
+      
+      - change in test as well
+      
+      - GH-52
+      
+  
+  ___
 ## Release [v5.2.0](https://github.com/yeshamavani/release-auti2/compare/v5.1.0..v5.2.0) Friday, Dec 2, 2022
 
   - [Another feature request done here](https://github.com/yeshamavani/release-auti2/issues/45) :- [feat(component): change feature](https://github.com/yeshamavani/release-auti2/commit/50199244b51c6863956810c62feacb8412137e5a) was commited on Friday, Dec 2, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
