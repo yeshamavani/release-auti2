@@ -1,3 +1,99 @@
+## Release [v5.3.0](https://github.com/sourcefuse/loopback4-audit-log/compare/v5.2.0..v5.3.0) January 5, 2023
+Welcome to the January 5, 2023 release of loopback4-audit-log. There are many updates in this version that we hope you will like, the key highlights include:
+
+  - [New bug created](https://github.com/sourcefuse/loopback4-audit-log/issues/51) :- [fix(chore): this is a bug subject](https://github.com/sourcefuse/loopback4-audit-log/commit/94d18c77862fd1e56f7bc4d77a3a4b55f9ea33fa) was commited on Friday, Dec 2, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+      - changed the ping controller
+      
+      - this change was made due to this reason
+      
+      - new line
+      
+      - GH-51
+      
+  
+  - [A new feature created for testing](https://github.com/sourcefuse/loopback4-audit-log/issues/52) :- [feat(chore): this is a feature request](https://github.com/sourcefuse/loopback4-audit-log/commit/535eac4737eed09776313b996cd8e07d2e116a47) was commited on Friday, Dec 2, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+      - changed the ping controller
+      
+      - change in test as well
+      
+      - GH-52
+      
+  
+Clink on the above links to understand the changes in detail.
+  ___
+## Release [v5.3.0](https://github.com/yeshamavani/release-auti2/compare/v5.2.0..v5.3.0) Thursday, Jan 5, 2023
+
+  - [New bug created](https://github.com/yeshamavani/release-auti2/issues/51) :- [fix(chore): this is a bug subject](https://github.com/yeshamavani/release-auti2/commit/94d18c77862fd1e56f7bc4d77a3a4b55f9ea33fa) was commited on Friday, Dec 2, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+      - changed the ping controller
+      
+      - this change was made due to this reason
+      
+      - new line
+      
+      - GH-51
+      
+  
+  - [A new feature created for testing](https://github.com/yeshamavani/release-auti2/issues/52) :- [feat(chore): this is a feature request](https://github.com/yeshamavani/release-auti2/commit/535eac4737eed09776313b996cd8e07d2e116a47) was commited on Friday, Dec 2, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+      - changed the ping controller
+      
+      - change in test as well
+      
+      - GH-52
+      
+  
+  ___
+## Release [v5.3.0](https://github.com/yeshamavani/release-auti2/compare/v5.2.0..v5.3.0) Thursday, Jan 5, 2023
+
+  - [New bug created](https://github.com/yeshamavani/release-auti2/issues/51) :- [fix(chore): this is a bug subject](https://github.com/yeshamavani/release-auti2/commit/94d18c77862fd1e56f7bc4d77a3a4b55f9ea33fa) was commited on Friday, Dec 2, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+      - changed the ping controller
+      
+      - this change was made due to this reason
+      
+      - new line
+      
+      - GH-51
+      
+  
+  - [A new feature created for testing](https://github.com/yeshamavani/release-auti2/issues/52) :- [feat(chore): this is a feature request](https://github.com/yeshamavani/release-auti2/commit/535eac4737eed09776313b996cd8e07d2e116a47) was commited on Friday, Dec 2, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+      - changed the ping controller
+      
+      - change in test as well
+      
+      - GH-52
+      
+  
+  ___
+## Release [v5.3.0](https://github.com/sourcefuse/loopback4-audit-log/compare/v5.2.0..v5.3.0) January 5, 2023
+Welcome to the January 5, 2023 release of loopback4-audit-log. There are many updates in this version that we hope you will like, the key highlights include:
+
+  - [New bug created](https://github.com/sourcefuse/loopback4-audit-log/issues/51) :- [fix(chore): this is a bug subject](https://github.com/sourcefuse/loopback4-audit-log/commit/94d18c77862fd1e56f7bc4d77a3a4b55f9ea33fa) was commited on Friday, Dec 2, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+      - changed the ping controller
+      
+      - this change was made due to this reason
+      
+      - new line
+      
+      - GH-51
+      
+  
+  - [A new feature created for testing](https://github.com/sourcefuse/loopback4-audit-log/issues/52) :- [feat(chore): this is a feature request](https://github.com/sourcefuse/loopback4-audit-log/commit/535eac4737eed09776313b996cd8e07d2e116a47) was commited on Friday, Dec 2, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+      - changed the ping controller
+      
+      - change in test as well
+      
+      - GH-52
+      
+  
+Clink on the above links to understand the changes in detail.
+  ___
 ## Release [v5.3.0](https://github.com/yeshamavani/release-auti2/compare/v5.2.0..v5.3.0) Friday, Dec 2, 2022
 
   - [New bug created](https://github.com/yeshamavani/release-auti2/issues/51) :- [fix(chore): this is a bug subject](https://github.com/yeshamavani/release-auti2/commit/94d18c77862fd1e56f7bc4d77a3a4b55f9ea33fa) was commited on Friday, Dec 2, 2022 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
