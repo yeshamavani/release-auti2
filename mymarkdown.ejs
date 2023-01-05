@@ -1,9 +1,0 @@
-## Release [<%= range.split('..')[1] %>](https://github.com/yeshamavani/release-auti2/compare/<%= range %>) <%= new Date().toLocaleDateString('en-us', { weekday:"long", year:"numeric", month:"short", day:"numeric"})
-;%>
-<% commits.forEach(function (commit) { %>
-  - [<%= commit.issueTitle %>](https://github.com/yeshamavani/release-auti2/issues/<%= commit.issueno %>) :- [<%= commit.title %>](https://github.com/yeshamavani/release-auti2/commit/<%= commit.sha1%>) was commited on <%= commit.committerDate %> by [<%= commit.authorName %>](mailto:<%= commit.authorEmail %>)
-    <% commit.messageLines.forEach(function (message) { %>
-      - <%= message %>
-      <% }) %>
-  <% }) %>
-  ___

@@ -13,8 +13,7 @@ async function generateReleaseNotes() {
     const TEMPLATE = './mymarkdown.ejs';
 
     const changelog = await releaseNotes(OPTIONS, RANGE, TEMPLATE);
-    //console.log(`Release Notes between ${RANGE}\n\n${changelog}`);
-    const changelogPath = path.resolve(__dirname, 'CHANGELOG.md');
+    const changelogPath = path.resolve(__dirname, '../..', 'CHANGELOG.md');
     await ensureFile(changelogPath);
     const currentFile = (await readFile(changelogPath)).toString().trim();
     if (currentFile) {
@@ -46,7 +45,9 @@ async function getRange() {
 
 async function addAndCommit() {
   const git = simpleGit();
-  await git.add(['CHANGELOG.md']);
+  console.log('commit me hu');
+  await git.add(['../../CHANGELOG.md']);
+  console.log('add ho gaya');
   await git.commit('chore(release): changelog file', {
     '--no-verify': null,
   });
