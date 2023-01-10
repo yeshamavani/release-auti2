@@ -1,3 +1,18 @@
+## Release [v5.3.1](https://github.com/sourcefuse/loopback4-audit-log/compare/v5.3.0..v5.3.1) January 10, 2023
+Welcome to the January 10, 2023 release of loopback4-audit-log. There are many updates in this version that we hope you will like, the key highlights include:
+
+  - [new issue for flow](https://github.com/sourcefuse/loopback4-audit-log/issues/57) :- [fix(component): a fix to check jenkins job](https://github.com/sourcefuse/loopback4-audit-log/commit/73b5b59ec560a2b1d86c80e781f8d814bb5eb5cd) was commited on Tuesday, Jan 10, 2023 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+      - this is just for jenkins
+      
+      - GH-57
+      
+  
+  - [](https://github.com/sourcefuse/loopback4-audit-log/issues/) :- [folder change](https://github.com/sourcefuse/loopback4-audit-log/commit/bcaf235eef7d991ec07256606410cd9957362263) was commited on Thursday, Jan 5, 2023 by [Yesha  Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+  
+Clink on the above links to understand the changes in detail.
+  ___
 ## Release [v5.3.0](https://github.com/sourcefuse/loopback4-audit-log/compare/v5.2.0..v5.3.0) January 10, 2023
 Welcome to the January 10, 2023 release of loopback4-audit-log. There are many updates in this version that we hope you will like, the key highlights include:
 
