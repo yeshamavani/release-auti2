@@ -39,7 +39,7 @@ jobs:
 
       - name: Install 📌
         run: |
-          npm install
+          npm ci --only=production --ignore-scripts
       - name: Test 🔧
         run: npm run test
       - name: Semantic Publish to NPM 🚀
@@ -53,4 +53,4 @@ jobs:
         with:
           script: |
             const script = require('./src/release_notes/release-notes.js')
-            HUSKY=0 await script()
+            await script()
