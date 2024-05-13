@@ -3,11 +3,11 @@ const simpleGit = require('simple-git/promise');
 const path = require('path');
 const {readFile, writeFile, ensureFile} = require('fs-extra');
 
-async function generateReleaseNotes() {
+module.exports = async () => {
   try {
     const OPTIONS = {
       branch: 'master',
-      s: './post-script.js',
+      s: './post-processing.js',
     };
     const RANGE = await getRange();
     const TEMPLATE = './mymarkdown.ejs';
@@ -32,7 +32,7 @@ async function generateReleaseNotes() {
     console.error(ex);
     process.exit(1);
   }
-}
+};
 
 async function getRange() {
   const git = simpleGit();
