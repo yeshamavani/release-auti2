@@ -53,7 +53,7 @@ async function addAndCommit() {
   await git.push('origin', 'master');
 }
 
-generateReleaseNotes().catch(ex => {
-  console.error(ex);
-  process.exit(1);
-});
+// generateReleaseNotes().catch(ex => {
+//   console.error(ex);
+//   process.exit(1);
+// });
