@@ -1,5 +1,6 @@
 ## Release [<%= range.split('..')[1] %>](https://github.com/yeshamavani/release-auti2/compare/<%= range %>) <%= new Date().toLocaleDateString('en-us', { weekday:"long", year:"numeric", month:"short", day:"numeric"})
 ;%>
+Welcome to the <%= new Date().toLocaleDateString('en-us', {year:"numeric", month:"long", day:"numeric"});%> release of Release automation. There are many updates in this version that we hope you will like, the key highlights include:
 <% commits.forEach(function (commit) { %>
   - [<%= commit.issueTitle %>](https://github.com/yeshamavani/release-auti2/issues/<%= commit.issueno %>) :- [<%= commit.title %>](https://github.com/yeshamavani/release-auti2/commit/<%= commit.sha1%>) was commited on <%= commit.committerDate %> by [<%= commit.authorName %>](mailto:<%= commit.authorEmail %>)
     <% commit.messageLines.forEach(function (message) { %>
