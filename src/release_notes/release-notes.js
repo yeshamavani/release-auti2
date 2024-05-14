@@ -46,7 +46,7 @@ async function getRange() {
 
 async function addAndCommit() {
   const git = simpleGit();
-  await git.add(['CHANGELOG.md']);
+  await git.add(['./../../CHANGELOG.md']);
   await git.commit('chore(release): changelog file', {
     '--no-verify': null,
   });
