@@ -3,14 +3,14 @@ const simpleGit = require('simple-git/promise');
 const path = require('path');
 const {readFile, writeFile, ensureFile} = require('fs-extra');
 
-module.exports = async () => {
+async function generateReleaseNotes() {
   try {
     const OPTIONS = {
       branch: 'master',
-      s: './src/release_notes/post-processing.js',
+      s: './post-processing.js',
     };
     const RANGE = await getRange();
-    const TEMPLATE = './src/release_notes/mymarkdown.ejs';
+    const TEMPLATE = './mymarkdown.ejs';
 
     const changelog = await releaseNotes(OPTIONS, RANGE, TEMPLATE);
     //console.log(`Release Notes between ${RANGE}\n\n${changelog}`);
@@ -32,7 +32,7 @@ module.exports = async () => {
     console.error(ex);
     process.exit(1);
   }
-};
+}
 
 async function getRange() {
   const git = simpleGit();
@@ -53,7 +53,7 @@ async function addAndCommit() {
   await git.push('origin', 'master');
 }
 
-// generateReleaseNotes().catch(ex => {
-//   console.error(ex);
-//   process.exit(1);
-// });
+generateReleaseNotes().catch(ex => {
+  console.error(ex);
+  process.exit(1);
+});
