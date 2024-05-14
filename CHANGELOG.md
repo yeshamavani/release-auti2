@@ -1,3 +1,14 @@
+## Release [v5.12.0](https://github.com/yeshamavani/release-auti2/compare/v5.11.0..v5.12.0) Tuesday, May 14, 2024
+Welcome to the May 14, 2024 release of Release automation. There are many updates in this version that we hope you will like, the key highlights include:
+
+  - [](https://github.com/yeshamavani/release-auti2/issues/00) :- [](https://github.com/yeshamavani/release-auti2/commit/a8a3e558f762219e0f4c90738a59ed1be87a9989) was commited on May 14, 2024 by [Yesha Mavani](mailto:yesha.mavani@sourcefuse.com)
+    
+      - uu
+      
+      - GH-00
+      
+  
+  ___
 hello
 
 ## Release [v5.3.0](https://github.com/yeshamavani/release-auti2/compare/v5.2.0..v5.3.0) Friday, Dec 2, 2022
