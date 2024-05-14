@@ -39,7 +39,7 @@ jobs:
 
       - name: Install 📌
         run: |
-          npm ci --only=production --ignore-scripts
+          npm install
       - name: Test 🔧
         run: npm run test
       - name: Semantic Publish to NPM 🚀
